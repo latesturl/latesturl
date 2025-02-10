@@ -1,3 +1,3 @@
 ## ✨ About Me:
 
-## Tech Stact
+## 💻🖥️👨‍💻⌨️💻Tech Stact
