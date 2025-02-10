@@ -1,3 +1,3 @@
-## Hi there 👋
+## ✨ About Me:
 
 ## Tech Stact
