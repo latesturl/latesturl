@@ -19,5 +19,5 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=latesturl&theme=2077&utcOffset=8)
 
-![](https://github-profile-trophy.vercel.app/?username=latesturl&theme=dracula&row=2&column=3
-)
+## 🏆 Github Profile Trophy
+![](https://github-profile-trophy.vercel.app/?username=latesturl&theme=dracula&row=2&column=3)
