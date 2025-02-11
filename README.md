@@ -9,4 +9,12 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/raol-dev)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/raol_dev)
 
-![Raol's GitHub Stats](https://github-readme-stats.vercel.app/api?username=raol&show_icons=true&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=latesturl&theme=2077)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=latesturl&theme=2077)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=latesturl&theme=2077)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=latesturl&theme=2077)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=latesturl&theme=2077&utcOffset=8)
