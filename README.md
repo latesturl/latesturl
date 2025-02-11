@@ -7,7 +7,7 @@
 
 
 ## 📬 Let's Connect
-[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?logo=youtube&logoColor=white)](https://youtube.com/@raol-dev)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp%20Channel-25d366)](https://whatsapp.com/channel/0029VazeUE92Jl8KuVcHIC46)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/raol-dev)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/raol_dev)
 ## 📊 GitHub Stats
