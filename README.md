@@ -1,14 +1,7 @@
-# ✨ About Me:
-
-# 🌐 Tech Stact:
-
-# Hi there, I'm Raol 👋
-
+## Hi there, I'm Raol 👋
 🚀 **Full Stack Developer | Tech Educator | Open Source Contributor**
 
-💻 5+ years crafting web solutions for startups and enterprises.  
-🎥 Sharing coding tutorials & career tips on [YouTube](https://youtube.com/@raol-dev).  
-🛍️ Shopify Expert & eCommerce Enthusiast.  
+## 🌐 Tech Stact:
 
 ### 🔧 Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
