@@ -28,8 +28,8 @@
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 
-## 📬 Let's Connect
-[![WhatsApp](https://img.shields.io/badge/WhatsApp%20Channel-25d366)](https://whatsapp.com/channel/0029VazeUE92Jl8KuVcHIC46)
+## 📬 Let's Connect:
+![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VazeUE92Jl8KuVcHIC46)
 
 ## 📊 GitHub Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=latesturl&theme=2077)
