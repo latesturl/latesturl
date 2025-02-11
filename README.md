@@ -18,3 +18,5 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=latesturl&theme=2077)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=latesturl&theme=2077&utcOffset=8)
+
+![Metrics](https://metrics.lecoq.io/latesturl?template=classic&base.indepth=true&base.hireable=true&base.skip=true&repositories.forks=true&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&base.hireable=true&base.skip=true&config.timezone=Asia%2FMakassar&config.twemoji=true&config.octicon=true&config.display=columns)
