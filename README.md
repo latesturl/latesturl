@@ -32,12 +32,12 @@
 
 <p align="left"> <a href="https://whatsapp.com/channel/0029VazeUE92Jl8KuVcHIC46" target="blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a> </p>
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=latesturl&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=latesturl&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=latesturl&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=latesturl&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=latesturl&theme=2077&utcOffset=8)
 
-## 🏆 Github Profile Trophy
+## 🏆 Github Profile Trophy:
 ![](https://github-profile-trophy.vercel.app/?username=latesturl&theme=dracula&row=2&column=3)
