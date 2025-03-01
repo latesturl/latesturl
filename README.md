@@ -39,16 +39,18 @@ Domain: latesturl.tech
 ## 📬 Let's Connect:
 <p align="left"> <a href="https://whatsapp.com/channel/0029VazeUE92Jl8KuVcHIC46" target="blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a> </p>
 
-## 📊 GitHub Stats:
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=latesturl&theme=2077" alt="Profile Details" style="width: 100%; max-width: 600px;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=latesturl&theme=2077" alt="Repos per Language" style="width: 48%; max-width: 400px;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=latesturl&theme=2077" alt="Most Commit Language" style="width: 48%; max-width: 400px;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=latesturl&theme=2077" alt="Stats" style="width: 48%; max-width: 400px;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=latesturl&theme=2077&utcOffset=8" alt="Productive Time" style="width: 48%; max-width: 400px;">
+## 📊 GitHub Stats
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=latesturl&theme=2077" alt="Profile Details" style="width: 100%; max-width: 500px;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=latesturl&theme=2077" alt="Repos per Language" style="width: 48%; max-width: 300px;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=latesturl&theme=2077" alt="Most Commit Language" style="width: 48%; max-width: 300px;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=latesturl&theme=2077" alt="Stats" style="width: 48%; max-width: 300px;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=latesturl&theme=2077&utcOffset=8" alt="Productive Time" style="width: 48%; max-width: 300px;">
 </div>
 
-## 🏆 GitHub Profile Trophy:
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-    <img src="https://github-profile-trophy.vercel.app/?username=latesturl&theme=dracula&row=2&column=3" alt="GitHub Trophies" style="width: 100%; max-width: 800px;">
+## 🏆 GitHub Profile Trophy
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px;">
+    <img src="https://github-profile-trophy.vercel.app/?username=latesturl&theme=dracula&row=2&column=3&margin-w=8&margin-h=8&no-frame=true&no-bg=true" alt="GitHub Trophies" style="width: 100%; max-width: 400px;">
 </div>
