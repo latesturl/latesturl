@@ -1,13 +1,19 @@
+<!-- Banner -->
+<div align="center">
+  <img src="" alt="Banner" style="width: 100%; max-width: 800px;">
+</div>
+
 ## Hi there, I'm Raol 👋
 🚀 **Full Stack Developer | Tech Educator | Open Source Contributor**
+
 ```csharp
 -------------------------
 Hostname: latesturl
 Hobbies: Watch Anime
-Best Anime: owari no seraph
+Best Anime: Owari no Seraph
 Location: Indonesia, South Kalimantan, Banjarbaru
 Domain: latesturl.tech
-------------------------
+-------------------------
 ```
 ![](https://komarev.com/ghpvc/?username=latesturl&style=flat-square)
 
