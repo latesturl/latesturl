@@ -1,6 +1,6 @@
 <!-- Banner -->
 <div align="center">
-  <img src="https://cloudkuimages.xyz/uploads/images/67c364da59bb3.jpg" alt="Banner" style="width: 100%; max-width: 800px;">
+  <img src="https://raw.githubusercontent.com/latesturl/dbCDN/refs/heads/main/my-DB/menuV2.jpg" alt="Banner" style="width: 100%; max-width: 800px;">
 </div>
 
 ## Hi there, I'm Raol 👋
