@@ -1,7 +1,4 @@
-<!-- Banner -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/latesturl/dbCDN/refs/heads/main/my-DB/menuV2.jpg" alt="Banner" style="width: 100%; max-width: 800px;">
-</div>
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=latesturl&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/latesturl)
 
 ## Hi there, I'm Raol 👋
 🚀 **Full Stack Developer | Tech Educator | Open Source Contributor**
