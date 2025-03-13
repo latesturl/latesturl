@@ -37,6 +37,8 @@ Domain: latesturl.tech
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?software=linux,windows,vscode&theme=nautilus)](https://github.com/latesturl)
+
 ## 📬 Let's Connect
 <p align="left">
   <a href="https://whatsapp.com/channel/0029VazeUE92Jl8KuVcHIC46" target="_blank">
