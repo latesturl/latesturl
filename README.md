@@ -1,61 +1,89 @@
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=latesturl&data=followers,repositories,stars&theme=nautilus)](https://github.com/latesturl)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:83eaf1,100:63a4ff&height=200&text=Raol%20Mukarrozi&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Backend%20Developer%20|%20API%20Specialist%20|%20Prompt%20Engineer&descAlignY=55&descSize=15"/>
+</div>
 
-## Hi there, I'm Raol 👋
-🚀 **Full Stack Developer | Tech Educator | Open Source Contributor**
-
-```csharp
--------------------------
-Hostname: latesturl
-Hobbies: Watch Anime
-Best Anime: Owari no Seraph
-Location: Indonesia, South Kalimantan, Banjarbaru
-Domain: latesturl.tech
--------------------------
-```
-![](https://komarev.com/ghpvc/?username=latesturl&style=flat-square)
-
-## 🌐 Tech Stack
-### 📋 Languages
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-
-### 📚 Frameworks & Libraries
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?software=linux,windows,vscode&theme=nautilus)](https://github.com/latesturl)
-
-## 📬 Let's Connect
-<p align="left">
-  <a href="https://whatsapp.com/channel/0029Vb4ngq4CxoB5889HOQ2V" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=63A4FF&center=true&vCenter=true&width=500&lines=Full+Stack+%26+Developer;Tech+Educator;Open+Source+Contributor" alt="Typing SVG" />
   </a>
 </p>
 
-## 📊 GitHub Stats
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=latesturl&theme=2077" alt="Profile Details" style="width: 100%; max-width: 500px;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=latesturl&theme=2077" alt="Repos per Language" style="width: 48%; max-width: 300px;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=latesturl&theme=2077" alt="Most Commit Language" style="width: 48%; max-width: 300px;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=latesturl&theme=2077" alt="Stats" style="width: 48%; max-width: 300px;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=latesturl&theme=2077&utcOffset=8" alt="Productive Time" style="width: 48%; max-width: 300px;">
+<div align="center">
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=latesturl&color=63a4ff&style=for-the-badge)
+  [![Years Badge](https://badges.pufler.dev/years/latesturl?style=for-the-badge&color=63a4ff)](https://badges.pufler.dev)
+  [![Repos Badge](https://badges.pufler.dev/repos/latesturl?style=for-the-badge&color=63a4ff)](https://badges.pufler.dev)
+  [![Commits Badge](https://badges.pufler.dev/commits/monthly/latesturl?style=for-the-badge&color=63a4ff)](https://badges.pufler.dev)
+  
 </div>
 
-## 🏆 GitHub Profile Trophy
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px;">
-    <img src="https://github-profile-trophy.vercel.app/?username=latesturl&theme=dracula&row=2&column=3&margin-w=8&margin-h=8&no-frame=true&no-bg=true" alt="GitHub Trophies" style="width: 100%; max-width: 400px;">
+---
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=latesturl&data=followers,repositories,stars&theme=darkmode)](https://github.com/latesturl)
+
+---
+
+<div align="center">
+  <h2>Languages & Tools</h2>
+  
+  ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+  ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+  ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+  
+  
+---
+
+<div align="center">
+  <h2>📊 GitHub Stats</h2>
+  <img src="https://github-stats-alpha.vercel.app/api?username=latesturl&cc=000&tc=fff&ic=fff&bc=000" alt="Stats">
+  
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=latesturl&theme=tokyonight" width="100%">
+  
+  <p align="center">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=latesturl&theme=tokyonight" width="45%">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=latesturl&theme=tokyonight" width="45%">
+  </p>
 </div>
+
+---
+
+<div align="center">
+  <h2>📈 Contribution Graph</h2>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=latesturl&bg_color=0d1117&color=63a4ff&line=83eaf1&point=63a4ff&area=true&hide_border=true&radius=8" width="100%">
+</div>
+
+<div align="center">
+  <h2>🌐 Weekly Development</h2>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=latesturl&theme=tokyonight&hide_border=true" width="100%">
+</div>
+
+---
+
+<footer align="center">
+<a href="https://github.com/latesturl" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository" />
+</a>
+<p>© 2025 LatestURL • All rights reserved</p>
+</footer>
+
+<div align="center">
+  <h2>💝 Support Me</h2>
+  
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="100%">
+  
+  ### Show some ❤️ by starring repositories!
+</div>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Google+Sans&weight=600&size=24&pause=1000&color=63A4FF&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+%F0%9F%91%8B;Let's+code+and+learn+together!+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:83eaf1,100:63a4ff&height=120&section=footer"/>
